@@ -33,7 +33,16 @@ module.exports = {
             name: `GitHub`,
             url: `https://github.com/linbudu599`,
           },
+          {
+            name: `知乎`,
+            url: `https://www.zhihu.com/people/599-75-63`,
+          },
+          {
+            name: `掘金`,
+            url: `https://juejin.cn/user/782508012077678/posts`,
+          },
         ],
+        formatString: "YYYY-MM-DD",
       },
     },
     {

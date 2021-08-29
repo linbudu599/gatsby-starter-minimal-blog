@@ -28,17 +28,6 @@ Typography driven, feature-rich blogging theme with minimal aesthetics. Includes
 
 Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter).
 
-## 🚧 TODO
-
-- [ ] 站点基本信息配置
-- [ ] 通用的静态资源迁移
-- [ ] TypeScript
-- [ ] 一些额外的小部件
-- [ ] Gatsby SSR
-- [ ] 接入 GA
-- [ ] 接入 CI/CD
-- [ ] 迁移文章
-
 ## ✨ Features
 
 - MDX
